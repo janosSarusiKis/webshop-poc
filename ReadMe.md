@@ -1,0 +1,1 @@
+## Sample webshop using the clean architecture template (wip)
